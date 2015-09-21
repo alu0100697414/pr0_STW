@@ -29,3 +29,19 @@ Así mismo, para comprobar que npm funciona correctamente, instalaremos el módu
 Para finalizar, solo nos queda la instalación del tambíen módulo [express](http://expressjs.com/es/):
 
 ![Captura tres](/img/capt2.png)
+
+### Cloud9
+
+A la hora de entrar en la web, he decidido iniciar sesión con la cuenta de Github. De esta manera, se vincula automáticamente nuestra cuenta y los repositorios que tenemos con [Cloud9](https://c9.io/).
+
+Una vez iniciada sesión, si accedemos al apartado "Repositories" del menú, podremos acceder a todos los repositorios que tenemos en Github.
+
+![Captura cuatro](/img/capt3.png)
+
+Si pinchamos sobre "Clone to edit" de algún repositorio, crearemos un espacio de trabajo con el cual podremos trabajar sin ningún problema con nuestro proyecto de forma online.
+
+![Captura cinco](/img/capt4.png)
+
+Finalmente, si vamos en el menú al apartado "Workspaces" nos encontraremos con las máquinas virtuales creadas para cada uno de los repositorios que hemos iniciado en la plataforma.
+
+![Captura seis](/img/capt5.png)
