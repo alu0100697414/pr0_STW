@@ -20,4 +20,4 @@ Para la instalación de NodeJS he seguido los pasos que se encuentran en este [t
 
 Para comprobar que la instalación se realizó con éxito, he comprobado la versión tanto de nodejs como de npm:
 
-![Texto Alternativo](/img/capt0.jgp)
+![Captura uno](/img/capt0.png)
