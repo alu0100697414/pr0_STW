@@ -25,3 +25,7 @@ Para comprobar que la instalación se realizó con éxito, he comprobado la vers
 Así mismo, para comprobar que npm funciona correctamente, instalaremos el módulo "underscore", el cual contiene una serie de operaciones con objetos de javascript de forma simplificada:
 
 ![Captura dos](/img/capt1.png)
+
+Para finalizar, solo nos queda la instalación del tambíen módulo [express](http://expressjs.com/es/):
+
+![Captura tres](/img/capt2.png)
