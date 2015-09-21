@@ -45,3 +45,7 @@ Si pinchamos sobre "Clone to edit" de algún repositorio, crearemos un espacio d
 Finalmente, si vamos en el menú al apartado "Workspaces" nos encontraremos con las máquinas virtuales creadas para cada uno de los repositorios que hemos iniciado en la plataforma.
 
 ![Captura seis](/img/capt5.png)
+
+### MarkDown
+
+Para familiarizarme con el uso de MarkDown he utilizado este [tutorial](http://cesarhdz.com/articulos/escribir-en-markdown#sintaxis-de-markdown), el cual tiene mucha información acerca de qué es y cómo funciona este lenguaje.
