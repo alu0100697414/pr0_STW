@@ -20,15 +20,15 @@ Para la instalación de NodeJS he seguido los pasos que se encuentran en este [t
 
 Para comprobar que la instalación se realizó con éxito, he comprobado la versión tanto de nodejs como de npm:
 
-![Captura uno](/img/capt0.png)
+![Captura uno](img/capt0.png)
 
 Así mismo, para comprobar que npm funciona correctamente, instalaremos el módulo "underscore", el cual contiene una serie de operaciones con objetos de javascript de forma simplificada:
 
-![Captura dos](/img/capt1.png)
+![Captura dos](img/capt1.png)
 
 Para finalizar, solo nos queda la instalación del tambíen módulo [express](http://expressjs.com/es/):
 
-![Captura tres](/img/capt2.png)
+![Captura tres](img/capt2.png)
 
 ### Cloud9
 
@@ -36,16 +36,26 @@ A la hora de entrar en la web, he decidido iniciar sesión con la cuenta de Gith
 
 Una vez iniciada sesión, si accedemos al apartado "Repositories" del menú, podremos acceder a todos los repositorios que tenemos en Github.
 
-![Captura cuatro](/img/capt3.png)
+![Captura cuatro](img/capt3.png)
 
 Si pinchamos sobre "Clone to edit" de algún repositorio, crearemos un espacio de trabajo con el cual podremos trabajar sin ningún problema con nuestro proyecto de forma online.
 
-![Captura cinco](/img/capt4.png)
+![Captura cinco](img/capt4.png)
 
 Finalmente, si vamos en el menú al apartado "Workspaces" nos encontraremos con las máquinas virtuales creadas para cada uno de los repositorios que hemos iniciado en la plataforma.
 
-![Captura seis](/img/capt5.png)
+![Captura seis](img/capt5.png)
 
 ### MarkDown
 
 Para familiarizarme con el uso de MarkDown he utilizado este [tutorial](http://cesarhdz.com/articulos/escribir-en-markdown#sintaxis-de-markdown), el cual tiene mucha información acerca de qué es y cómo funciona este lenguaje.
+
+### Pandoc
+
+Para generar un HTML a partir de este fichero hemos hecho uso de Pandoc. Para crear este fichero el comando que hemos usado ha sido:
+
+![Captura siete](img/capt6.png)
+
+Y el resultado final del fichero HTML generado es:
+
+![Captura ocho](img/capt7.png)
