@@ -59,3 +59,19 @@ Para generar un HTML a partir de este fichero hemos hecho uso de Pandoc. Para cr
 Y el resultado final del fichero HTML generado es:
 
 ![Captura ocho](img/capt7.png)
+
+### GH-PAGES
+
+Para la publicación del HTML antes generado por Pandoc, lo que hemos hecho ha sido crear una nueva rama que se ha llamado "gh-pages" (sin comillas) y hemos enviado el trabajo hacia esa rama. Para ello hemos hecho uso de los siguientes comandos:
+
+<pre>git checkout -b gh-pages</pre>
+<pre>git push -u origin gh-pages</pre>
+
+Finalmente, accedemos al [enlace](http://alu0100697414.github.io/pr0_STW/) para ver el resultado. Destacar que dicho enlace tiene que tener la forma siguiente:
+
+<pre>http://nombre-usuario.github.io/directorio-trabajo/</pre>
+
+Una captura de pantalla del enlace es la siguiente:
+
+![Captura nueve](img/capt8.png)
+
